@@ -1,0 +1,210 @@
+[
+    {
+        "id": 1,
+        "title": "Spaghetti Bolognese",
+        "image": "/images/recipes/Spaghetti.jpg",
+        "description": "A classic Italian pasta dish with rich meat sauce.",
+        "ingredients": [
+            "Spaghetti",
+            "Ground beef",
+            "Tomato sauce",
+            "Garlic",
+            "Onions",
+            "Olive oil",
+            "Parmesan cheese"
+        ],
+        "steps": [
+            "Cook the spaghetti in boiling water.",
+            "Heat olive oil in a pan, sauté onions and garlic.",
+            "Add ground beef and cook until browned.",
+            "Pour in tomato sauce and simmer.",
+            "Serve the sauce over spaghetti and top with Parmesan cheese."
+        ],
+        "category": "Dinner",
+        "time": "30 minutes"
+    },
+    {
+        "id": 2,
+        "title": "Chicken Caesar Salad",
+        "image": "/images/recipes/Chicken.jpg",
+        "description": "A refreshing salad with grilled chicken, romaine lettuce, and Caesar dressing.",
+        "ingredients": [
+            "Romaine lettuce",
+            "Grilled chicken",
+            "Croutons",
+            "Caesar dressing",
+            "Parmesan cheese"
+        ],
+        "steps": [
+            "Chop the romaine lettuce.",
+            "Grill the chicken until cooked through and slice it.",
+            "Toss the lettuce with Caesar dressing.",
+            "Top with croutons, grilled chicken, and Parmesan cheese."
+        ],
+        "category": "Lunch",
+        "time": "20 minutes"
+    },
+    {
+        "id": 3,
+        "title": "Pancakes",
+        "image": "/images/recipes/Pancakes.jpg",
+        "description": "Fluffy pancakes perfect for breakfast.",
+        "ingredients": [
+            "Flour",
+            "Milk",
+            "Eggs",
+            "Sugar",
+            "Baking powder",
+            "Butter"
+        ],
+        "steps": [
+            "Mix flour, sugar, and baking powder in a bowl.",
+            "Whisk in eggs and milk until smooth.",
+            "Heat butter in a pan and pour in batter to form pancakes.",
+            "Cook until bubbles form, then flip and cook the other side."
+        ],
+        "category": "Breakfast",
+        "time": "15 minutes"
+    },
+    {
+        "id": 4,
+        "title": "Grilled Cheese Sandwich",
+        "image": "/images/recipes/Grilled.jpg",
+        "description": "A quick and cheesy sandwich.",
+        "ingredients": [
+            "Bread",
+            "Cheddar cheese",
+            "Butter"
+        ],
+        "steps": [
+            "Butter one side of each slice of bread.",
+            "Place cheese between the unbuttered sides of bread.",
+            "Heat a pan and grill the sandwich until the bread is golden and the cheese is melted."
+        ],
+        "category": "Snack",
+        "time": "10 minutes"
+    },
+    {
+        "id": 5,
+        "title": "Beef Tacos",
+        "image": "/images/recipes/BeefTacos.jpg",
+        "description": "Delicious beef tacos with fresh toppings.",
+        "ingredients": [
+            "Ground beef",
+            "Taco shells",
+            "Lettuce",
+            "Tomatoes",
+            "Cheddar cheese",
+            "Sour cream"
+        ],
+        "steps": [
+            "Cook the ground beef with taco seasoning.",
+            "Chop lettuce and tomatoes.",
+            "Assemble the tacos with beef, lettuce, tomatoes, cheese, and sour cream."
+        ],
+        "category": "Dinner",
+        "time": "25 minutes"
+    },
+    {
+        "id": 6,
+        "title": "Fruit Smoothie",
+        "image": "/images/recipes/FruitSmoothie.jpg",
+        "description": "A refreshing and healthy fruit smoothie.",
+        "ingredients": [
+            "Banana",
+            "Strawberries",
+            "Yogurt",
+            "Honey",
+            "Ice"
+        ],
+        "steps": [
+            "Combine all ingredients in a blender.",
+            "Blend until smooth and serve immediately."
+        ],
+        "category": "Beverage",
+        "time": "5 minutes"
+    },
+    {
+        "id": 7,
+        "title": "Chocolate Chip Cookies",
+        "image": "/images/recipes/ChocolateChip.jpg",
+        "description": "Classic cookies filled with chocolate chips.",
+        "ingredients": [
+            "Flour",
+            "Sugar",
+            "Butter",
+            "Chocolate chips",
+            "Eggs",
+            "Vanilla extract"
+        ],
+        "steps": [
+            "Preheat the oven to 180°C (350°F).",
+            "Mix flour, sugar, and butter in a bowl.",
+            "Stir in eggs, vanilla, and chocolate chips.",
+            "Scoop the dough onto a baking sheet and bake for 10-12 minutes."
+        ],
+        "category": "Dessert",
+        "time": "20 minutes"
+    },
+    {
+        "id": 8,
+        "title": "Tomato Soup",
+        "image": "/images/recipes/TomatoSoup.jpg",
+        "description": "A warm and comforting tomato soup.",
+        "ingredients": [
+            "Tomatoes",
+            "Onion",
+            "Garlic",
+            "Vegetable broth",
+            "Olive oil"
+        ],
+        "steps": [
+            "Sauté onions and garlic in olive oil.",
+            "Add tomatoes and broth, simmer until soft.",
+            "Blend the soup until smooth and serve hot."
+        ],
+        "category": "Lunch",
+        "time": "30 minutes"
+    },
+    {
+        "id": 9,
+        "title": "BBQ Chicken Wings",
+        "image": "/images/recipes/BBQ.jpg",
+        "description": "Spicy and tangy BBQ chicken wings.",
+        "ingredients": [
+            "Chicken wings",
+            "BBQ sauce",
+            "Garlic",
+            "Paprika",
+            "Honey"
+        ],
+        "steps": [
+            "Preheat the oven to 200°C (400°F).",
+            "Marinate the chicken wings in BBQ sauce, garlic, and paprika.",
+            "Bake for 25-30 minutes, basting with more sauce."
+        ],
+        "category": "Appetizer",
+        "time": "40 minutes"
+    },
+    {
+        "id": 10,
+        "title": "Vegetable Stir Fry",
+        "image": "/images/recipes/VegetableStir.jpg",
+        "description": "A quick and healthy vegetable stir fry.",
+        "ingredients": [
+            "Broccoli",
+            "Carrots",
+            "Bell peppers",
+            "Soy sauce",
+            "Garlic",
+            "Ginger"
+        ],
+        "steps": [
+            "Heat oil in a pan and stir fry garlic and ginger.",
+            "Add vegetables and cook until tender.",
+            "Stir in soy sauce and serve hot."
+        ],
+        "category": "Dinner",
+        "time": "15 minutes"
+    }
+]
